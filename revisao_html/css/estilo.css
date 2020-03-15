@@ -23,6 +23,7 @@ a:hover{
 	color: black;
 	background-color: silver;
 }
+
 .container{
 	 width: 90%;
 	 min-height: 400px;
@@ -31,10 +32,18 @@ a:hover{
 	 margin: 0 auto;
 }
 #villag{
-	width: 50%;
-	padding-top: 10%;
+	width: 22%;
 	padding-left: 2%;
-}
-aside{
 	float: left;
 }
+h1{
+	text-align: center;
+ 	font-weight: bolder;
+}
+section{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+
